@@ -12,6 +12,6 @@ int main() {
 }
 ```
 
-- [ ] TODO
+- [x] TODO
 - [ ] Fix code
 - [ ] Some todo stuff
